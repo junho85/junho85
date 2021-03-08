@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=AABBCC&height=150&section=header&text=JunHo%20Kim&fontSize=70&animation=fadeIn)
-
 ### ⌨️ Skills 🖱
 
 Main: 
