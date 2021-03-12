@@ -1,3 +1,6 @@
+### RESUME
+📜 RESUME: [https://junho85.github.io/RESUME](https://junho85.github.io/RESUME)
+
 ### ⌨️ Skills 🖱
 
 Main: 
