@@ -1,6 +1,8 @@
 ### RESUME
 📜 RESUME: [https://junho85.github.io/RESUME](https://junho85.github.io/RESUME)
 
+![](https://flipdots.vercel.app/api/svg?text=JUNHO85+WORLD&style=dark&animationMode=sequential)
+
 ### ⌨️ Skills 🖱
 
 Main: 
