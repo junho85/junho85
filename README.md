@@ -29,4 +29,4 @@ Sub:
 [![](https://img.shields.io/badge/Facebook-4267B2?logo=Facebook&logoColor=white&link=https://www.fb.com/junho85)](https://www.fb.com/junho85)
 [![](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=junho85@gmail.com)](mailto:junho85@gmail.com)
 
-![junho85's GitHub stats](https://github-readme-stats.vercel.app/api?username=junho85)
+![junho85's GitHub stats](https://github-readme-stats.shion.dev/api?username=junho85)
