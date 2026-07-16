@@ -15,6 +15,7 @@ Main:
 ![](https://img.shields.io/badge/Javascript-ffb13b?logo=javascript&logoColor=white)
 
 Sub:
+![](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/Perl-11B48A?logo=Perl&logoColor=white)
 ![](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
